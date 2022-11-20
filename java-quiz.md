@@ -1,4 +1,3 @@
-Java
 ## Java
 
 #### Q1. Given the string "strawberries" saved in a variable called fruit, what would `fruit.substring(2, 5)` return?
@@ -7,14 +6,6 @@ Java
 - [x] raw
 - [ ] awb
 - [ ] traw
-
-**Reasoning:** The substring method is accepting two arguments.
-
-- The first argument being the index to start(includes that char at 2)
-- and the second the index of the string to end the substring(excludes the char at 5).
-- Strings in Java are like arrays of chars.
-- Therefore, the method will return "raw" as those are the chars in indexes 2,3, and 4.
-- You can also take the ending index and subtract the beginning index from it, to determine how many chars will be included in the substring (5-2=3).
 
 #### Q2. How can you achieve runtime polymorphism in Java?
 
