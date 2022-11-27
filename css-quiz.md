@@ -2054,8 +2054,6 @@ input.invalid {
 }
 ```
 
-[Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/:invalid)
-
 #### Q129. What style rule should you apply to the img element to display the element in grayscale with no color?
 
 - [ ] A
@@ -2090,8 +2088,6 @@ img {
 }
 ```
 
-[Reference](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_filter_grayscale)
-
 #### Q130. Why might you create a reset style sheet?
 
 - [ ] to reduce page size by removing browser styles from the page rendering.
@@ -2099,16 +2095,12 @@ img {
 - [ ] to make it easier to minify the content of your web page design
 - [ ] to increase execution time by not relying on built-in browser styles
 
-[Reference](http://web.simmons.edu/~grovesd/comm244/notes/week4/css-reset)
-
 #### Q131. Which option is an invalid way of declaring a padding value of 10 pixels on the top and bottom, and 0 pixels on the left and right?
 
 - [ ] padding: 10px 0px;
 - [x] padding: 10px 10px 0px 0px;
 - [ ] padding: 10px 0;
 - [ ] padding: 10px 0px 10px 0px;
-
-[Reference](https://www.w3schools.com/css/css_padding.asp)
 
 #### Q132. How would you absolutely position an element of the logo class inside of a relatively positioned container?
 
@@ -2175,16 +2167,12 @@ img {
 - [ ] at the bottom of the container, spanning the container's width
 - [x] at the top of the container, spanning the container's width
 
-[Reference](https://codepen.io/harsh1x4/pen/poVaQVz)
-
 #### Q134. By default, a CSS transition is \_\_
 
 - [ ] asymmetric, so that the transition going from the initial state to the end state is different from the transition going from the end state back to the initial state.
 - [ ] one sided, so that there is only one transition and it goes from the initial state to the end state.
 - [x] symmetric, so that the transition going from the initial state to the end state is the reverse of the transition going from the end state back to the initial state.
 - [ ] one-sided, so that there is only one transition and it goes from the end state to the initial state.
-
-[Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
 #### Q135. Which style rule will extend the header element across an entire grid row from the first column through the last column?
 
@@ -2220,8 +2208,6 @@ header {
 }
 ```
 
-[Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column)
-
 #### Q136. To center the content of a grid cell horizontally and vertically within the cell, which style rule should you apply?
 
 - [ ] A
@@ -2251,9 +2237,6 @@ justify-items: middle;
 align-items: stretch;
 justify-items: stretch;
 ```
-
-[Reference for align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items) [Reference for justify-items](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-items)
-
 #### Q137. What style rule should you use to display all input elements that have failed the validation test with a red font?
 
 - [ ] A
@@ -2288,16 +2271,12 @@ input.invalid {
 }
 ```
 
-[Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/:invalid)
-
 #### Q139. To insert an external style sheet file into another style sheet file, which rule should you use?
 
 - [x] `@import`
 - [ ] `@link`
 - [ ] `@insert`
 - [ ] `@style`
-
-[Reference for import](https://developer.mozilla.org/en-US/docs/Web/CSS/@import)
 
 #### Q140. Given this code, how tall will the following element be in pixels?
 
@@ -2318,7 +2297,6 @@ input.invalid {
 - [ ] 180px
 - [ ] 220px
 
-[Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/height#:~:text)
 
 #### Q141. Which style rule will place an X within the grid to win the game?
 
@@ -2332,8 +2310,6 @@ input.invalid {
       column: 2;
 - [ ] grid-row: 2;
       grid-column: 2;
-
-[Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column)
 
 #### Q142. Which CSS property is used to create an image reflection ?
 
@@ -2437,8 +2413,6 @@ input.invalid {
 - [ ] Colourful Style Sheets
 - [x] Cascading Style Sheets
 - [ ] Colourful Style Sheets
-
-[Reference](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS)
 
 #### Q156. What color would rgb(255,0,0) give?
 
